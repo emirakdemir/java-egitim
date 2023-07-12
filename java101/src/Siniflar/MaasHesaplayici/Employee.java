@@ -46,7 +46,6 @@ public class Employee {
         return salary * raisePercentage;
     }
 
-    @Override
     public String toString() {
         double totalSalary = salary + bonus() - tax() + raiseSalary();
 
