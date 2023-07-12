@@ -11,4 +11,4 @@
 
 
 ### Ödevler 2.Hafta
-• [Boks Oyunu](https://github.com/emirakdemir/java-egitim/tree/main/java101/src/Siniflar/MaasHesaplayici) <br/>
+• [Maaş Hesaplayıcı](https://github.com/emirakdemir/java-egitim/tree/main/java101/src/Siniflar/MaasHesaplayici) <br/>
