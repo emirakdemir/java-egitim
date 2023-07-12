@@ -19,3 +19,13 @@ Eğer çalışan 9 yıldan fazla ve 20 yıldan az çalışıyorsa maaşına %10 
 Eğer çalışan 19 yıldan fazla çalışıyorsa %15 zam yapılacaktır.
 toString() : Çalışana ait bilgileri ekrana bastıracaktır.
 Örnek :
+
+Adı : kemal
+Maaşı : 2000.0
+Çalışma Saati : 45
+Başlangıç Yılı : 1985
+Vergi : 60.0
+Bonus : 150.0
+Maaş Artışı : 300.0
+Vergi ve Bonuslar ile birlikte maaş : 2090.0
+Toplam Maaş : 2300.0
