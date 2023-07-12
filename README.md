@@ -1,7 +1,3 @@
-# java-egitim
-Garanti BBVA Becoder
-
-
 ## Ödevler 1.Hafta
 • [Vücut Kitle İndeksi Hesaplama](https://github.com/emirakdemir/java-egitim/blob/main/java101/src/Temel_Kavramlar_ve_Degiskenler/odevVucutKitleIndeksiHesaplama.java) <br/>
 • [Manav Kasa Programı](https://github.com/emirakdemir/java-egitim/blob/main/java101/src/Temel_Kavramlar_ve_Degiskenler/odevManavKasaProgrami.java) <br/>
