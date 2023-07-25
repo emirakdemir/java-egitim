@@ -25,6 +25,6 @@
 • [Threadlerin Yarisi](https://github.com/emirakdemir/odev-thread) <br/>
 • [Patika Klonu](https://github.com/emirakdemir/patikaClone) <br/>
 • [Üniversite Yönetim Sistemi](https://github.com/emirakdemir/java-egitim/tree/main/oop/odev-universite-yonetim-sistemi) <br/>
-• [Asansör Simülasyonu](https://github.com/emirakdemir/java-egitim/tree/main/oop/odev-universite-yonetim-sistemi) <br/>
+• [Asansör Simülasyonu](https://github.com/emirakdemir/java-egitim/tree/main/oop/odev-asansor-simulasyonu) <br/>
 
 
