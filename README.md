@@ -24,7 +24,7 @@
 ### Ödevler 3.Hafta (java 102 - object oriented programming)
 • [Threadlerin Yarisi](https://github.com/emirakdemir/odev-thread) <br/>
 • [Patika Klonu](https://github.com/emirakdemir/patikaClone) <br/>
-• [Üniversite Yönetim Sistemi](https://github.com/emirakdemir/java-egitim/tree/main/oop/odev-universite-yonetim-sistemi)
-• [Asansör Simülasyonu](https://github.com/emirakdemir/java-egitim/tree/main/oop/odev-universite-yonetim-sistemi)
+• [Üniversite Yönetim Sistemi](https://github.com/emirakdemir/java-egitim/tree/main/oop/odev-universite-yonetim-sistemi) <br/>
+• [Asansör Simülasyonu](https://github.com/emirakdemir/java-egitim/tree/main/oop/odev-universite-yonetim-sistemi) <br/>
 
 
