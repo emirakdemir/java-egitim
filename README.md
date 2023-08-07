@@ -27,4 +27,6 @@
 • [Üniversite Yönetim Sistemi](https://github.com/emirakdemir/java-egitim/tree/main/oop/odev-universite-yonetim-sistemi) <br/>
 • [Asansör Simülasyonu](https://github.com/emirakdemir/java-egitim/tree/main/oop/odev-asansor-simulasyonu) <br/>
 
+### Ödevler 4.Hafta (SQL - Java Spring Boot)
+• [SQL Ödevler 1-2-3-4-5-6-7-8-9-10-11-12](https://github.com/emirakdemir/java-egitim/tree/main/sql) <br/>
 
